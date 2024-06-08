@@ -19,6 +19,7 @@ To run the notebook, you need to have Python 3.x and the following Python librar
 You can install the required packages using:
 ```bash
 pip install torch matplotlib seaborn numpy
+'''
 
 ## Running the Code
 
