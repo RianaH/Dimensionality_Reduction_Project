@@ -50,12 +50,12 @@ The project implements three dimensionality reduction techniques to find the pri
 4. **Autoencoder Training**: Train an autoencoder to learn a reduced representation of the data.
 5. **Matrix Factorization**: Perform matrix factorization to approximate the data with lower-rank matrices.
 6. **Results Analysis**: Analyze and visualize the results to interpret the variance captured and the effectiveness of each technique.
-        -Explained Variance: Analyze the variance captured by the principal components.
-        -Scatter Plot: Visualize the first two principal components.
-        -Heatmap: Display the top principal components.
-        -Training Loss: Plot the training loss over iterations for both Autoencoder and Matrix Factorization.
-        -Reconstruction Error: Calculate and interpret the reconstruction error.
-        -Subspace Comparison: Compare the subspaces derived from PCA, Autoencoder, and Matrix Factorization.
+- Explained Variance: Analyze the variance captured by the principal components.
+- Scatter Plot: Visualize the first two principal components.
+- Heatmap: Display the top principal components.
+- Training Loss: Plot the training loss over iterations for both Autoencoder and Matrix Factorization.
+- Reconstruction Error: Calculate and interpret the reconstruction error.
+- Subspace Comparison: Compare the subspaces derived from PCA, Autoencoder, and Matrix Factorization.
 
 ## License
 
