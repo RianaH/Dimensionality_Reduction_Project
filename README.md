@@ -59,4 +59,4 @@ The project implements three dimensionality reduction techniques to find the pri
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
