@@ -1,4 +1,3 @@
-
 # Principal Component Analysis (PCA) Project
 
 ## Overview
@@ -12,13 +11,13 @@ This repository contains the implementation of Principal Component Analysis (PCA
 ## Setup and Installation
 
 To run the notebook, you need to have Python 3.x and the following Python libraries installed:
-- NumPy
 - PyTorch
 - Matplotlib
+- Seaborn
 
 You can install the required packages using:
 ```bash
-pip install numpy torch matplotlib
+pip install torch matplotlib seaborn
 ```
 
 ## Running the Code
@@ -33,7 +32,7 @@ Open the `PCA_notebook.ipynb` file using Jupyter Notebook or Jupyter Lab to view
 
 2. **Install the Dependencies**:
     ```bash
-    pip install numpy torch matplotlib
+    pip install numpy torch matplotlib seaborn
     ```
 
 3. **Run the Notebook**:
@@ -48,6 +47,10 @@ The project implements PCA to find the principal components of a dataset and red
 2. **Zero Centering**: Center the data by subtracting the mean.
 3. **PCA Computation**: Calculate the principal components and project the data onto the reduced subspace.
 4. **Results Analysis**: Analyze and visualize the results to interpret the variance captured by the principal components.
+   - Explained Variance: Analyze the variance captured by the principal components.
+   - Scatter Plot: Visualize the first two principal components.
+   - Heatmap: Display the top principal components.
+   - Reconstruction Error: Calculate and interpret the reconstruction error.
 
 ## License
 
