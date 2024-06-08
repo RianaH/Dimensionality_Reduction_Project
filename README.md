@@ -27,7 +27,7 @@ Open the PCA_Autoencoder_Factorization_Notebook.ipynb file using Jupyter Noteboo
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Dimensionality_Reduction_Project.git
+    git clone https://github.com/RianaH/Dimensionality_Reduction_Project.git
     cd Dimensionality_Reduction_Project
     ```
 
